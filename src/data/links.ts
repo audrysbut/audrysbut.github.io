@@ -61,12 +61,4 @@ export const links: LinkItem[] = [
     emoji: '🧩',
     tag: 'Tools',
   },
-  {
-    title: 'Node TS Boilerplate',
-    url: 'https://audrysbut.github.io/node_typescript_project/',
-    description:
-      'Demo and boilerplate repository for setting up a Node project with TypeScript.',
-    emoji: '⚙️',
-    tag: 'Boilerplate',
-  },
 ]
